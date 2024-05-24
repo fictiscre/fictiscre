@@ -1,3 +1,11 @@
+###
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&duration=2500&pause=500&color=8ACBF7&center=true&vCenter=true&random=false&width=500&height=70&lines=Sup+;I'm+Putra!;%E7%8C%AB" alt="Typing SVG" /></a>
+</h1> 
+
+###
+
 <h2 align="center">I'm Studying CompSci, Am i Cooked guys?</h2>
 
 ###
